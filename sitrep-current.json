@@ -1,0 +1,1248 @@
+{
+  "metadata": {
+    "titulo": "RELATÓRIO DIÁRIO DO AMBIENTE OPERACIONAL",
+    "subtitulo": "SITREP-AM | MANAUS E REGIÃO METROPOLITANA",
+    "versao": "2026.08.21-r2-padrao-anexado",
+    "atualizadoEm": "2026-08-21T15:39:00-03:00",
+    "periodoInicio": "2026-08-19T15:39:00-03:00",
+    "periodoFim": "2026-08-21T15:39:00-03:00",
+    "fusoHorario": "America/Sao_Paulo",
+    "status": "ATENÇÃO LOCALIZADA",
+    "distribuicao": "FONTES ABERTAS — REVISAR ANTES DA PUBLICAÇÃO",
+    "geradoEm": "2026-08-21T16:22:00-03:00",
+    "consultasTentadas": 150,
+    "consultasEfetivas": 150,
+    "dominios": 125,
+    "candidatos": 1855
+  },
+  "resumoExecutivo": {
+    "situacao": "Foram confirmados 22 eventos na janela de 48 horas em Manaus e na Região Metropolitana, com concentração em segurança, infraestrutura, ambiente, mobilidade, defesa civil e justiça.",
+    "impacto": "Os principais efeitos operacionais envolvem segurança pública, abastecimento de água e energia, qualidade do ar, tráfego em corredores estruturantes e acompanhamento de riscos ambientais e estruturais.",
+    "perspectiva": "Nas próximas 24–48 horas, acompanhar respostas institucionais, normalização dos serviços, condições ambientais, mobilidade na Torquato Tapajós e medidas de proteção civil."
+  },
+  "indicadores": {
+    "termometro": "ATENÇÃO",
+    "totalEventos": 22,
+    "eventosCriticos": 0,
+    "eventosAcompanhamento": 22,
+    "eventosFronteira": 0,
+    "fontesUtilizadas": 10
+  },
+  "eventos": [
+    {
+      "id": "rmm-20260821-01",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "seguranca",
+      "titulo": "Investigador da Polícia Civil atira contra motorista durante discussão em Manaus; VÍDEO",
+      "dataHora": "2026-08-20T16:04:14.000Z",
+      "publicadoEm": "2026-08-20T16:04:14.000Z",
+      "localizacao": "Manaus · bairro não informado",
+      "resumo": "Agente foi filmado disparando contra motorista durante discussão; a PC informou apuração da conduta.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGpBbC0td1B0M2RIWDRNU3RBS2JIS3JXY2Ezalc5WFdMN2lVR0lYT1hQaTZwRnJ3cVZuZUtQZm5leG1rcl9CeXMxR2J4eXM3OGh3RTNjajlqVUNpdXg5M1R6dF84aUxIV1l3TjdZOV9NR08xRFA0akYxT21jbGdYdHJkNl9HOXZiMVlzdUxiVU9RdkZCUEVvUmlhSmhmRzcxZ0Rnc3l6eWljU2RzcEtMWUZVazRzWGdmV2ZVaFZTUktnSVFMWWhNdElLTEtneTRqa0dfRnc0TG9KNE1J0gHrAUFVX3lxTFA3c0VOUmpnQ2MzdTVQaHlXeHRobHM3MW5ac2JZY0tESGZ5Q29UcG4xY3RxcG1yQzdlbTQ5M3MtaDVOQ0pDaGNWTHlScW1naGdLUnBid1VKRVQ2RUVQa2FuOVNmVzJfcXNyNWdHZlZxUmpYeXlWSXpuM1RLMzRGS1h6Q0lPMTFHcVZiQ0xtTVhZWnl3WGlMN3BPSFdHZkZnOFlzRzl6Nk44dXpOVzY3dTg1WkxmUkR1WlF4QVM1S0RIcFlacFQ3MTdVTXZxblJrMWFlcVlIR1h6Vi1wTEROWmlvUlVFWnBOU0VCTjQ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Agente foi filmado disparando contra motorista durante discussão; a PC informou apuração da conduta."
+      }
+    },
+    {
+      "id": "rmm-20260821-02",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "seguranca",
+      "titulo": "Homem é preso por agiotagem e ameaças de morte em Manaus",
+      "dataHora": "2026-08-19T22:32:32.000Z",
+      "publicadoEm": "2026-08-19T22:32:32.000Z",
+      "localizacao": "Manaus · zona Leste; bairro não informado",
+      "resumo": "Homem foi preso sob suspeita de agiotagem e ameaças de morte.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVm5FMGtGTmExTHpBb1hJOFpsYmNpUGNjSDdzUk9VNWw2MndTWjRrYVVSME42YVdWdXpCemZ0eTQ4T0E4WFU0LXlPV2VJZ0tGYjNDVXJRZ0puMkcyNHJfRlU4MlgtLS13MDlMcVFFNG10UDlHYlhZQ0RRZlU5OFFsdDZuRENleHVzeUhJ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Homem foi preso sob suspeita de agiotagem e ameaças de morte."
+      }
+    },
+    {
+      "id": "rmm-20260821-03",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "seguranca",
+      "titulo": "Guarda Municipal detém indivíduos por importunação sexual e receptação nas zonas Oeste e Sul da capital",
+      "dataHora": "2026-08-20T20:06:00.000Z",
+      "publicadoEm": "2026-08-20T20:06:00.000Z",
+      "localizacao": "Manaus · zonas Oeste e Sul; bairros não informados",
+      "resumo": "Guarda Municipal informou detenções distintas por importunação sexual e receptação.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MU0plc0FaVzI3blRiQ1pCSWNma1VRWlNhOUtja2JUc3QwOUF4LTFiVGsxd2Q1TzhHVUpwVklCeEFqTGNiOHhnUmJLOVFPYWhPR3ZHZmRWaktZZkZjdk8zVVROakYwTHg3MzVHRmZKd1NTdlVQ?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "Guarda Municipal informou detenções distintas por importunação sexual e receptação."
+      }
+    },
+    {
+      "id": "rmm-20260821-04",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "seguranca",
+      "titulo": "Operação prende 22 condenados por roubo em Manaus e outros dois estados",
+      "dataHora": "2026-08-20T19:13:32.000Z",
+      "publicadoEm": "2026-08-20T19:13:32.000Z",
+      "localizacao": "Manaus e outros dois estados",
+      "resumo": "Operação localizou 22 condenados por roubo; alcance interestadual, com núcleo operacional em Manaus.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORm94eDFSVVJGVTc0QUQ2NTFIVGJab2pIeldyakNmY2dBR2VCQ3dpT3NDMW1hRkpENHlNaURicFkxSDF2MkxCOW93WHpXZFdGMlF6cDNWWXdub1NacHR4RmJvcHMxdzRJYXItRHNkQ1laWE4wRGM3S09TR0NNSnNnMlVNcTlmVzRkWU80VkZHQjQwQ05ub2dqWlQ5QnhyMTA?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Operação localizou 22 condenados por roubo; alcance interestadual, com núcleo operacional em Manaus."
+      }
+    },
+    {
+      "id": "rmm-20260821-05",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "seguranca",
+      "titulo": "Suspeito de executar jovem a mando de facção em Boa Vista é preso em Manaus",
+      "dataHora": "2026-08-21T12:44:06.000Z",
+      "publicadoEm": "2026-08-21T12:44:06.000Z",
+      "localizacao": "Manaus · conexão funcional com Boa Vista/RR",
+      "resumo": "Suspeito de execução atribuída por investigação a ordem de facção em Boa Vista foi preso em Manaus; vínculo externo separado.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnhQMXVfb0prRWl6U2tRcVFCbW5tUnBfeXIxMmliazB2LXpHdWFNbUZoT2RNRldJRG5nRHZiUDU3eUJaRHl0WHFrRjlFRWZQdDkybi03b1ptSTdCZGhZcV81c0VYVkRudmFVTkx3Q20tOVY5ZXh6MWtQQmRXVDgwdmhMS3psMWlhQlktLXQ3b0lPLXNXc3d0V0IzZnVOXzZCX2I1M3V5WjVaam9mYVJSZUJaSEY1RkRHNUE3NHUxbWpHMEhzQnhnUjFyZmFXa3N5WWpZ0gHTAUFVX3lxTE1OeFAxdV9vSmtFaXpTa1FxUUJtbm1ScF95cjEyaWJrMHYtekd1YU1tRmhPZE1GV0lEbmdEdmJQNTd5QlpEeXRYcWtGOUVFZlB0OTJuLTdvWm1JN0JkaFlxXzVzRVhWRG52YVVOTHdDbS05VjlleHoxa1BCZFdUODB2aExLemwxaWFCWS0tdDdvSU8tc1dzd3RXQjNmdU5fNkJfYjUzdXlaNVpqb2ZhUlJlQlpIRjVGREc1QTc0dTFtakcwSHNCeGdSMXJmYVdrc3lZalk?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Suspeito de execução atribuída por investigação a ordem de facção em Boa Vista foi preso em Manaus; vínculo externo separado."
+      }
+    },
+    {
+      "id": "rmm-20260821-06",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "ordem-urbana",
+      "titulo": "Prefeitura de Manaus inicia operação ‘Batidão’ para reforçar fiscalização e ordenamento no Centro",
+      "dataHora": "2026-08-20T00:00:00.000Z",
+      "publicadoEm": "2026-08-20T00:00:00.000Z",
+      "localizacao": "Manaus · Centro",
+      "resumo": "Fiscalização e ordenamento foram reforçados no Centro por operação municipal.",
+      "impactoOperacional": "Relevância operacional: Ordem urbana. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QYk1ldXhrZVYtdERlSHhSamo2eF80NmhyeFdtLUYzSFFnV0ZUWDVqNjBhalAwbXRvSmJSWEpXVEw0d2hMcmtVLVpzVWRERDFfTTczNVE0Nzc2SUZCa1RMV0hDRF9QRVpxeGhNMnRDc3ZTWUdlOFE?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "Fiscalização e ordenamento foram reforçados no Centro por operação municipal."
+      }
+    },
+    {
+      "id": "rmm-20260821-07",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "seguranca",
+      "titulo": "Romu realiza prisão de dois indivíduos por tráfico de drogas na zona Leste",
+      "dataHora": "2026-08-21T17:08:00.000Z",
+      "publicadoEm": "2026-08-21T17:08:00.000Z",
+      "localizacao": "Manaus · zona Leste; bairro não informado",
+      "resumo": "ROMU informou prisão de dois indivíduos por tráfico de drogas na zona Leste.",
+      "impactoOperacional": "Relevância operacional: Segurança. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdk1vUE1IMlhVWUdaVHVrZnNLd3pPckMzR1pmSTFGZW4ySzdWQ1FmeWx4SnFIblZsVzlXUEQwbkFPaFFCaXVJTDN0VHBLYWhESktzRHpreWNHd1o5REJueGg0WUdzdlhfdDFuNzMxeGtET3RCMDIxN2l0REh6V1U1dUh2eGZNUQ?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "ROMU informou prisão de dois indivíduos por tráfico de drogas na zona Leste."
+      }
+    },
+    {
+      "id": "rmm-20260821-08",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "mobilidade",
+      "titulo": "Greve dos trabalhadores do transporte especial chega ao fim após acordo em Manaus",
+      "dataHora": "2026-08-20T18:56:40.000Z",
+      "publicadoEm": "2026-08-20T18:56:40.000Z",
+      "localizacao": "Manaus · Distrito Industrial/eixos de acesso",
+      "resumo": "Paralisação do transporte especial terminou após acordo, depois de afetar deslocamentos e risco à produção do PIM.",
+      "impactoOperacional": "Relevância operacional: Mobilidade. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSl9pVkJ2dkJYOTVqeTZhZ21mTmVWaURrWkpadzlNcHFvVjBXNXBiM0pIWXVoM0VGZzlYcjRfcUNrREJOS1ZNRDd1dnUtM0txbVNZQ0ZtLVJMSjQ1SnVPdWFkYW8xQVloVjdlLW1oTjRSWkg0aENrZ0JrdHN5ZnJzaTM5M1c3VzN2dDAtWjBORmktVFFCVDl0OTJ6WUZFbVVtQUs4SktZS0JFZHhGa2Y2X1ZNQ1hSNjV5NXJ4ODFUYUpqYnBfR1JzdmxlMmdPYUJTbVM3MkxB0gHkAUFVX3lxTE9QcDJERGdTanJMSHl4ejJIaXRLLXViMTU2bmRuZlB2TVdzRmN0RXdqSThYblA5M0JNX2pMYXhkWHNQZjZPamlUUTM2QTVoYW1MMGZNTTQyZnJxbEN4TUYwVnVheUN3Y1QwLW9rYXBJOHUtNVNDLXFHWU9jTldGV1RKQXlsWHBZcEhwWGwzZzlHb2tsYlU4dnMyYmJOWmRCNW9DZjVNbk1xRHY1TXgtMlJGN1htM0JvTzRFMERYQjNVbUJyRkc0ZEYwRlYxWERkMzNNeDVQeEs5alpmQjFYNlpHak96TQ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Paralisação do transporte especial terminou após acordo, depois de afetar deslocamentos e risco à produção do PIM."
+      }
+    },
+    {
+      "id": "rmm-20260821-09",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "infraestrutura",
+      "titulo": "Apagão atinge bairros de Manaus e municípios de Iranduba e Manacapuru",
+      "dataHora": "2026-08-20T23:45:04.000Z",
+      "publicadoEm": "2026-08-20T23:45:04.000Z",
+      "localizacao": "Manaus, Iranduba e Manacapuru",
+      "resumo": "Interrupção elétrica atingiu bairros da capital e os dois municípios; protesto posterior ocorreu em Manacapuru.",
+      "impactoOperacional": "Relevância operacional: Infraestrutura. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal Em Tempo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEpMZTdzck9TdmU1aHFQRW8wNzh5Tk9FenJ3TFV0Y0NjNU1fY0hFNHI0UkVpM2RpTXBmd0hPaWtjRURyQ0dhbkN3VDVwNTZKX0kzN0ZMXzI5YTlQYUJHak1ZSXZ1el9uY0dwRUFPeDVoNzlXTll5QW5DbnJTcDVHY0ZWRF9GMEk?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Interrupção elétrica atingiu bairros da capital e os dois municípios; protesto posterior ocorreu em Manacapuru."
+      }
+    },
+    {
+      "id": "rmm-20260821-10",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "ambiente",
+      "titulo": "Manaus amanhece coberta por fumaça e registra qualidade do ar \"ruim\" nesta quinta-feira (20)",
+      "dataHora": "2026-08-20T20:03:05.000Z",
+      "publicadoEm": "2026-08-20T20:03:05.000Z",
+      "localizacao": "Manaus · múltiplas zonas",
+      "resumo": "Fumaça cobriu a cidade e a qualidade do ar foi classificada como ruim.",
+      "impactoOperacional": "Relevância operacional: Ambiente. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "BandNews Difusora",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXFTNUh1b3RUdG5FOGU0cEZqdUwxMjMyWmFhZVVKWFRQbUhMU0hyZ1BtbFd5M2dwQlZKM05ESVpGeGZWRWRSN2VETnRnS0hfei1EYTlZdVdmQmNjY2VGN1BfOFdleWV4MEdPZWlQT01BeTZiS1NYeEJ5Rkd0cEwwZDQ4MTZsUGx6bWJOcVlQWHRZWDZsWGp3MW4wVEFWM09SRE5laTJLQjZnVHoyYnVsS0RYN2M4RWV3cHFLQkRMcjliYkpKUEdGVTRhWUJpVkFXajVxLUpFZ2I?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Fumaça cobriu a cidade e a qualidade do ar foi classificada como ruim."
+      }
+    },
+    {
+      "id": "rmm-20260821-11",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "ambiente",
+      "titulo": "MP oficia órgãos para contenção de incêndio no lixão de Iranduba e apuração de responsabilidade por danos ao meio ambiente e à saúde da população",
+      "dataHora": "2026-08-19T21:57:11.000Z",
+      "publicadoEm": "2026-08-19T21:57:11.000Z",
+      "localizacao": "Iranduba · lixão municipal",
+      "resumo": "MPAM cobrou contenção de incêndio que já durava dias e apuração de danos ambientais e sanitários.",
+      "impactoOperacional": "Relevância operacional: Ambiente. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.2844,
+        "lon": -60.1861,
+        "precisao": "referência aproximada da sede municipal; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbXo1bm9uaDNuc1RWNXJmc0lqR2NCZTNCN2NrS29BMzNjNkFYcENlM18zQTFTaUVmdnZYWUdJdHBNVkVHdk1sb2FNa0FwRXpucVFfd0RrdHpVVDB6cHo0RnMxa3BlQ1Utc0lMYWpoVGdrYkNjVTJ2QXB3UGM1Uy1ScEJiclBYS0J3OEFRU19qUEZMVEV6elQwT2E2NHBTY3AzSnAzYjIySVJCbTZGaDE0NXlGZmpfY2NqRXdiUEJ2a0RuS19fQlJYT3N0eWZ6NExYZ2VTdDlIMW9hZElSYWtlYmc2ZWdaZmtKQklLQjd0dEJYUUh5b0g2UTlCYjhjeTRFRkJJS1k4cU9NeHlKVU9tM19sT0FCQWQt?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "MPAM cobrou contenção de incêndio que já durava dias e apuração de danos ambientais e sanitários."
+      }
+    },
+    {
+      "id": "rmm-20260821-12",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "infraestrutura",
+      "titulo": "Falta d'água no Novo Aleixo e outros bairros afeta rotina de famílias em Manaus",
+      "dataHora": "2026-08-20T15:04:00.000Z",
+      "publicadoEm": "2026-08-20T15:04:00.000Z",
+      "localizacao": "Manaus · Novo Aleixo",
+      "resumo": "Moradores relataram desabastecimento prolongado no Novo Aleixo e outros bairros.",
+      "impactoOperacional": "Relevância operacional: Infraestrutura. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal do Holanda",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWZVSE9ZYVgtdnJoY0xPZnh4VDJ5OVBveFo0VDVBUUhodF83ZjZxbDNTNWRJOXRTbXNmS1ZrVDBoX1NvdEQzZ0U5T0JyS3Vic0ZYZUI0Mm1nNVJRblZwUWpabkNBaGozMGR0akVwa3hKSUdaUnV6MXBKQlVZbmJtWWVWRU9kTy1tM0JZVk5KajdXQWRqX1FLSkY3bEtTUC1idlQzUE9zb19BQlpURy1lRExVWmxjaHBsNWxxX3R4RQ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Moradores relataram desabastecimento prolongado no Novo Aleixo e outros bairros."
+      }
+    },
+    {
+      "id": "rmm-20260821-13",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "infraestrutura",
+      "titulo": "Tubulação rompe, afeta abastecimento e causa congestionamento em Manaus",
+      "dataHora": "2026-08-21T13:38:29.000Z",
+      "publicadoEm": "2026-08-21T13:38:29.000Z",
+      "localizacao": "Manaus · Torquato Tapajós; bairros não consolidados",
+      "resumo": "Rompimento de tubulação afetou abastecimento e provocou congestionamento no corredor da Torquato Tapajós.",
+      "impactoOperacional": "Relevância operacional: Infraestrutura. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUFkdzIxdFAtcy1JdEpGVTBIQW1aM2R3RFpoMjc3ZlRfaWEzc2tMZzliNDJiNUhBcDg0U2V3T3pkYWxxNE9jS25zaUw3d3BJbmxGODdvMHRuX3FvUkRjRFV2ZFFpRzJvT3hRZmVKaXRrbHlycDFIdm4taWhGdlgzNmZIUkpWbTV5RW14eTF6Nkl3ckxEU1g0WVBoWmFnZzNzSnotRjBXWWtQR3pxdy1wV2liTEhmVlY0aTI3U3oxXzFCQdIB0AFBVV95cUxNTThHQk5oeUsyWXgwQUlZZTFkc3NCOHpUYUtvMy1xUE1YZFBtXzNmeXY1a0I3cmxNTWRfNHdUdVJ3VTJFajNwYnptMXFFVk5zSTg4Tmw5ZlBUNUh6dmJ1WWNUQ09GT1dQUUxod200amdwOWhtZktEeW9nczRJa2xfR0ltQkd3NkxRU1VQQ29EbkRVb0ZldE5sSjFiczBubUZwTzZ6Z29jdmFVeGtfbUNpdXR5TVNJS3FMc3RWSGx1RElXVjV5LUdVSElBdlJWUTZG?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Rompimento de tubulação afetou abastecimento e provocou congestionamento no corredor da Torquato Tapajós."
+      }
+    },
+    {
+      "id": "rmm-20260821-14",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "defesa-civil",
+      "titulo": "'Medo de desabar tudo': avanço de erosão ameaça casas em Presidente Figueiredo",
+      "dataHora": "2026-08-21T11:28:01.000Z",
+      "publicadoEm": "2026-08-21T11:28:01.000Z",
+      "localizacao": "Presidente Figueiredo",
+      "resumo": "Moradores relataram avanço de erosão e risco a residências; demanda acompanhamento técnico.",
+      "impactoOperacional": "Relevância operacional: Defesa civil. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -2.0346,
+        "lon": -60.0234,
+        "precisao": "referência aproximada da sede municipal; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHVmUnR5N1padU5WU1pYdm04STVmMWoySFVYcEwwaEFrVjQ2dklLTmo4OFN2U0pVWGR6NXdBcExQc3FRTmtOdXdEOVRNcjg1WWNwWDlBS19sT0hQWVV2cUp3ZER2b3RNZUhJMDNZU2R0LWVVcnJtQVgtcVc2T3FScWFsNTUzdlRLM0xrQ1FqYjFkV0ZZRnlONUtVTkZqRXhKNFRkeE1xRFJWaDdIeThHZ1ZXdTdKcWtPZ2czVWZaQ09FWTdlemtlRjNGX1M0ei1aY2tBT0hudWFjY3di0gHcAUFVX3lxTE0wdWZSdHk3Wlp1TlZTWlh2bThJNWYxajJIVVhwTDBoQWtWNDZ2SUtOajg4U3ZTSlVYZHo1d0FwTFBzcVFOa051d0Q5VE1yODVZY3BYOUFLX2xPSFBZVXZxSndkRHZvdE1lSEkwM1lTZHQtZVVycm1BWC1xVzZPcVJxYWw1NTN2VEszTGtDUWpiMWRXRllGeU41S1VORmpFeEo0VGR4TXFEUlZoN0h5OEdnVld1N0pxa09nZzNVZlpDT0VZN2V6a2VGM0ZfUzR6LVpja0FPSG51YWNjd2I?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Moradores relataram avanço de erosão e risco a residências; demanda acompanhamento técnico."
+      }
+    },
+    {
+      "id": "rmm-20260821-15",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "defesa-civil",
+      "titulo": "Rachaduras assustam moradores de residencial em Manaus",
+      "dataHora": "2026-08-20T19:23:42.000Z",
+      "publicadoEm": "2026-08-20T19:23:42.000Z",
+      "localizacao": "Manaus · residencial/bairro não informado",
+      "resumo": "Rachaduras em conjunto residencial geraram temor de comprometimento estrutural.",
+      "impactoOperacional": "Relevância operacional: Defesa civil. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "amazonas atual",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUpWSTlpb1Y5Y1dyNmRUTG5FMElKb180YVpjZDBuTDA5X0liZlVEX0l4SHZCZVVNcFZCdEphUVpSRkJOM2t5YVluQ0FtYmNxMGk3VXg0aU1Rd05zWkc2LVllc3A2ZlJySElZNHVVTFFjVEZsdFY5V1JXaUIydlp6bkJaLWdfSm0wMGl3YQ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Rachaduras em conjunto residencial geraram temor de comprometimento estrutural."
+      }
+    },
+    {
+      "id": "rmm-20260821-16",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "transito",
+      "titulo": "Motorista embriagado colide contra poste e acaba preso em Manaus",
+      "dataHora": "2026-08-21T10:51:00.000Z",
+      "publicadoEm": "2026-08-21T10:51:00.000Z",
+      "localizacao": "Manaus · bairro não informado",
+      "resumo": "Condutor foi preso após colisão contra poste; o evento elevou risco viário e à rede elétrica local.",
+      "impactoOperacional": "Relevância operacional: Trânsito. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal do Holanda",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXBmUlI5bExmeGRBcnpWU0Q2YV9lcVJxRXdHeXZzYmtWd2F4V2l4OW5XTkZ3eVZ1TTZ6ckJnSkZEQlBZcUtTanVycGRUVFVNSkV1NHVnb01MS0pENzI3NFFuMXlkN0F0LXZqLWhkQ3lXQTBCN2hjMDFBNk1QelpmbUVZcy0zVllUVTR4T0drV1U2MHMxTEpXTnVZQ1VCVWNCMmlDSWRiSHlJeXVj?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Condutor foi preso após colisão contra poste; o evento elevou risco viário e à rede elétrica local."
+      }
+    },
+    {
+      "id": "rmm-20260821-17",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "transito",
+      "titulo": "VÍDEOS: acidente entre veículos paralisa Avenida Torquato Tapajós em Manaus",
+      "dataHora": "2026-08-21T13:13:05.000Z",
+      "publicadoEm": "2026-08-21T13:13:05.000Z",
+      "localizacao": "Manaus · avenida Torquato Tapajós",
+      "resumo": "Colisão entre veículos interrompeu o fluxo no corredor viário.",
+      "impactoOperacional": "Relevância operacional: Trânsito. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG5LU3VqekdYNVh5bjRvMFR1T3hQU2E2Q2NuMFlyVWpad25JV2xPQkpCUkMxLWlZdHVmSmNucHp5QTdCb1RhX3hnMjZuRmZoSXJzMEYtbFB6SVo3dWdCSHhuYU1ScnpjcGk0ak1MZHF3cHNQS0ZqSzBpYmRJaDJ3VEoxTFB4TWNNSXdzNm5oeDdMYXhqLXZTeEhnRmxhNjBlVHJpNQ?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Colisão entre veículos interrompeu o fluxo no corredor viário."
+      }
+    },
+    {
+      "id": "rmm-20260821-18",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "saude",
+      "titulo": "‘Dia D’ da Multivacinação da prefeitura terá oferta de doses em mais de 110 unidades básicas no sábado, 22/8",
+      "dataHora": "2026-08-19T21:25:00.000Z",
+      "publicadoEm": "2026-08-19T21:25:00.000Z",
+      "localizacao": "Manaus · mais de 110 UBS",
+      "resumo": "Prefeitura programou Dia D para 22/08, com efeito operacional sobre mais de 110 unidades.",
+      "impactoOperacional": "Relevância operacional: Saúde. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wWkN5YmEwd2RGMUotVHVoOWZiNXlJVTBiQzE3aFpyT3RLVk9IS3hHQTBxLVhLWXM2eVRNU1ZNNjhiSV9BQXlaUE1oOGtHSHlOVjlSSTh1cExYbE5kYnFhV3I3bU9UektFeFRTcE9LYWswYnBJb3BmTUtlU18?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "Prefeitura programou Dia D para 22/08, com efeito operacional sobre mais de 110 unidades."
+      }
+    },
+    {
+      "id": "rmm-20260821-19",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "fraude",
+      "titulo": "MPAM atua em apoio à operação Labirinto Fiscal, do MPSC, que investiga fraude tributária milionária em Manaus",
+      "dataHora": "2026-08-20T17:13:32.000Z",
+      "publicadoEm": "2026-08-20T17:13:32.000Z",
+      "localizacao": "Manaus · local não informado",
+      "resumo": "MPAM apoiou operação interestadual que investiga fraude tributária milionária com conexão em Manaus.",
+      "impactoOperacional": "Relevância operacional: Fraude. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN28wWXE4SkhzZktlNXRQX2Z1NzNLRi1xY19meElxVDk1MWhoZWZ5cmdBNGR6LThMMHlvLWVFY1ozVWVwMUFGMkw0U1otMnJuaEZfNm81UG5la2lYWEdUMnlwRTVlSWVqdnprbzU5Q3B5QjZOV09QY01CLTNOZGtHTzAtbHN2RVduM0VLVUJyMVF3c0hYazhncFhlQy0tREZtbC1ZZXptZ0tkdWdTNWtKZjJlLWJuQTVZNVQ3eVZLZEtEY3J1N0VSUjdZR2FFeFdKM2t3Z2N4VlVsUEZDU25za3FQaDJQZw?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "MPAM apoiou operação interestadual que investiga fraude tributária milionária com conexão em Manaus."
+      }
+    },
+    {
+      "id": "rmm-20260821-20",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "decisao-judicial",
+      "titulo": "Vara do Meio Ambiente confirma sentença de desocupação de 11 imóveis no bairro Aparecida, em Manaus",
+      "dataHora": "2026-08-21T17:03:47.000Z",
+      "publicadoEm": "2026-08-21T17:03:47.000Z",
+      "localizacao": "Manaus · Aparecida",
+      "resumo": "TJAM confirmou sentença de desocupação de 11 imóveis; decisão exige monitoramento de cumprimento e impacto local.",
+      "impactoOperacional": "Relevância operacional: Decisão judicial. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "tjam.jus.br",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONkVwTnh6VHQ3VEo2TzNEQjFJZ1JOdGRVWTMxSV9qRzdxZlFnOHF0SHp4SzR4eC1rMTJQdkY0MklRei03bHcyanFRdThmbkdXOFJwczI3eGZpZVFnTVJiVFd3YTExNy0wNTVkdlYyT2ZJaG5UdkJBUklfVkVUNWsyU3FxRVJjaGNNaFdIS2hjU1FweE9XakR6THVQYlVsSm9UMUdJLTdad2hoOWtRcTZuclZlZy01M0VMX2ktMmZ3azhOYW1DSkRVeTRGd1B3am13dm1SZHNUTmlJb1dqN3N1TjBTd1NWSVZtWUxhMmJwYUhzdw?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "TJAM confirmou sentença de desocupação de 11 imóveis; decisão exige monitoramento de cumprimento e impacto local."
+      }
+    },
+    {
+      "id": "rmm-20260821-21",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "justica",
+      "titulo": "MPAM obtém condenação de homem a 29 anos por feminicídio em Manaus",
+      "dataHora": "2026-08-19T20:00:12.000Z",
+      "publicadoEm": "2026-08-19T20:00:12.000Z",
+      "localizacao": "Manaus · bairro não informado",
+      "resumo": "MPAM divulgou condenação a 29 anos por feminicídio; o crime é antecedente e a decisão ocorreu na janela.",
+      "impactoOperacional": "Relevância operacional: Justiça. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "A",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1U3VDNHWHcxYjN2aVVPNXh3YURrdjRrVmFVc0xMaUtITnNTNTVKTXJsSTVxUy1HMUZmY1VObzAzUVRrV21xOGZOTUdndFhHbGY1YWJ0WW5BX2k5bW1SaWdkZVFKdDRTTHBHRzFhUWNIeDJZRXJoRzBjWk13WFRqc1ZrZ2JxX2VYWFFZSk9Pc2xBRzU2MThiT2lEdFNqUFVQLXpjTW1ES0tPaGg3Zmxr?oc=5",
+        "tipo": "primária",
+        "confirmacoes": 1,
+        "evidencia": "MPAM divulgou condenação a 29 anos por feminicídio; o crime é antecedente e a decisão ocorreu na janela."
+      }
+    },
+    {
+      "id": "rmm-20260821-22",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "justica",
+      "titulo": "Empresários são condenados por manter doméstica em regime análogo à escravidão por 30 anos em Manaus",
+      "dataHora": "2026-08-20T16:47:34.000Z",
+      "publicadoEm": "2026-08-20T16:47:34.000Z",
+      "localizacao": "Manaus · bairro não informado",
+      "resumo": "Condenação reconheceu manutenção de trabalhadora doméstica em condição análoga à escravidão por três décadas.",
+      "impactoOperacional": "Relevância operacional: Justiça. 20–21/08/2026, conforme publicação; hora do fato não exposta na indexação",
+      "tendencia": "em acompanhamento",
+      "confianca": "alta",
+      "impacto": 4,
+      "probabilidadeAgravamento": 3,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "A Crítica",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc29XV0s1aDduSkk5RmtYOWtXS0d1dUJfRTZBN0NvM3dNdWpVM0c3bnZsOEdLcnRTZTAwejBTSFZySUp6NEY0Wm50ZFlyQWpKNVhsWDAwQi1rZ1pIUHV6S3Z5RHVLZjhTU0ZGTkJyOVVqMko1YVR6eXVaTnloS0hpYmhFRURqWFZhZjliWi04c0d4bUlkaGZsclJaak1wV0N6NWhxVmcwUnRHMnFBTWltYUJsZmRFcVNTR2dwSTRZT0kzbHRsOHhNZkNST1JZd2dTUU9WVVF4bG7SAdgBQVVfeXFMTXNvV1dLNWg3bkpJOUZrWDlrV0tHdXVCX0U2QTdDbzN3TXVqVTNHN252bDhHS3J0U2UwMHowU0hWcklKejRGNFpudGRZckFqSjVYbFgwMEIta2daSFB1ekt2eUR1S2Y4U1NGRk5CcjlVajJKNWFUenl1Wk55aEtIaWJoRUVEalhWYWY5YlotOHNHeG1JZGhmbHJSWmpNcFdDejVocVZnMFJ0RzJxQU1pbWFCbGZkRXFTU0dncEk0WU9JM2x0bDh4TWZDUk9SWXdnU1FPVlVReGxu?oc=5",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Condenação reconheceu manutenção de trabalhadora doméstica em condição análoga à escravidão por três décadas."
+      }
+    }
+  ],
+  "fronteiraColombia": [
+    {
+      "status": "22 FATOS CONFIRMADOS NA JANELA",
+      "grupo": "Manaus",
+      "departamento": "Região Metropolitana de Manaus",
+      "localConfronto": "Eventos distribuídos por Manaus e municípios metropolitanos",
+      "operacaoGovernamental": "Ações policiais, municipais, judiciais, ambientais e de defesa civil",
+      "municipioBrasil": "Manaus, Iranduba, Manacapuru e Presidente Figueiredo, além de conexões regionais",
+      "distanciaFronteira": "Não se aplica",
+      "bacia": "Rio Negro e sistema Solimões–Amazonas",
+      "eixoLogistico": "Rodoviário, urbano e fluvial",
+      "impactoPotencial": "Serviços essenciais, mobilidade, segurança e saúde pública",
+      "tendencia": "atenção localizada",
+      "riscoTransbordamento": "moderado e localizado",
+      "observacao": "A cartografia usa apenas referências municipais aproximadas. Eventos sem localização publicável permanecem sem marcador."
+    }
+  ],
+  "radarTematico": [
+    {
+      "tema": "seguranca",
+      "nivel": 5
+    },
+    {
+      "tema": "infraestrutura",
+      "nivel": 3
+    },
+    {
+      "tema": "ambiente",
+      "nivel": 2
+    },
+    {
+      "tema": "defesa civil",
+      "nivel": 2
+    },
+    {
+      "tema": "transito",
+      "nivel": 2
+    },
+    {
+      "tema": "justica",
+      "nivel": 2
+    },
+    {
+      "tema": "ordem urbana",
+      "nivel": 1
+    },
+    {
+      "tema": "mobilidade",
+      "nivel": 1
+    },
+    {
+      "tema": "saude",
+      "nivel": 1
+    },
+    {
+      "tema": "fraude",
+      "nivel": 1
+    },
+    {
+      "tema": "decisao judicial",
+      "nivel": 1
+    }
+  ],
+  "briefingDiario": [
+    {
+      "tema": "indicação",
+      "titulo": "Esfaqueamento no Alvorada: veículo de baixa rastreabilidade, sem corroboração independente.",
+      "situacao": "SEM CONFIRMAÇÃO INDEPENDENTE",
+      "confianca": "baixa",
+      "fonte": "https://news.google.com/"
+    },
+    {
+      "tema": "contexto",
+      "titulo": "Incêndio do lixão de Iranduba começou antes da janela; a atuação do MPAM é evento novo confirmado.",
+      "situacao": "CONTEXTO — não contabilizado como novo fato",
+      "confianca": "média",
+      "fonte": "https://news.google.com/"
+    },
+    {
+      "tema": "contexto",
+      "titulo": "Chacina de Manaus ocorreu antes da janela; reconstituição/estado da sobrevivente são acompanhamento, não novo homicídio.",
+      "situacao": "CONTEXTO — não contabilizado como novo fato",
+      "confianca": "média",
+      "fonte": "https://news.google.com/"
+    }
+  ],
+  "acompanhamento": [
+    {
+      "tema": "Segurança pública",
+      "horizonte": "24–48h",
+      "acao": "Acompanhar apurações policiais, decisões judiciais e repercussões institucionais."
+    },
+    {
+      "tema": "Água, energia e mobilidade",
+      "horizonte": "24h",
+      "acao": "Verificar normalização dos serviços e dos corredores afetados."
+    },
+    {
+      "tema": "Fumaça e incêndio em Iranduba",
+      "horizonte": "24–48h",
+      "acao": "Monitorar qualidade do ar, contenção e respostas ambientais e sanitárias."
+    },
+    {
+      "tema": "Defesa civil",
+      "horizonte": "48h",
+      "acao": "Acompanhar erosão e relatos de risco estrutural sem extrapolar a evidência disponível."
+    }
+  ],
+  "historico30Dias": [
+    {
+      "id": "rmm-20260821-01",
+      "data": "2026-08-20",
+      "titulo": "Investigador da Polícia Civil atira contra motorista durante discussão em Manaus; VÍDEO",
+      "categoria": "seguranca",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORGpBbC0td1B0M2RIWDRNU3RBS2JIS3JXY2Ezalc5WFdMN2lVR0lYT1hQaTZwRnJ3cVZuZUtQZm5leG1rcl9CeXMxR2J4eXM3OGh3RTNjajlqVUNpdXg5M1R6dF84aUxIV1l3TjdZOV9NR08xRFA0akYxT21jbGdYdHJkNl9HOXZiMVlzdUxiVU9RdkZCUEVvUmlhSmhmRzcxZ0Rnc3l6eWljU2RzcEtMWUZVazRzWGdmV2ZVaFZTUktnSVFMWWhNdElLTEtneTRqa0dfRnc0TG9KNE1J0gHrAUFVX3lxTFA3c0VOUmpnQ2MzdTVQaHlXeHRobHM3MW5ac2JZY0tESGZ5Q29UcG4xY3RxcG1yQzdlbTQ5M3MtaDVOQ0pDaGNWTHlScW1naGdLUnBid1VKRVQ2RUVQa2FuOVNmVzJfcXNyNWdHZlZxUmpYeXlWSXpuM1RLMzRGS1h6Q0lPMTFHcVZiQ0xtTVhZWnl3WGlMN3BPSFdHZkZnOFlzRzl6Nk44dXpOVzY3dTg1WkxmUkR1WlF4QVM1S0RIcFlacFQ3MTdVTXZxblJrMWFlcVlIR1h6Vi1wTEROWmlvUlVFWnBOU0VCTjQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-02",
+      "data": "2026-08-19",
+      "titulo": "Homem é preso por agiotagem e ameaças de morte em Manaus",
+      "categoria": "seguranca",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · zona Leste; bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVm5FMGtGTmExTHpBb1hJOFpsYmNpUGNjSDdzUk9VNWw2MndTWjRrYVVSME42YVdWdXpCemZ0eTQ4T0E4WFU0LXlPV2VJZ0tGYjNDVXJRZ0puMkcyNHJfRlU4MlgtLS13MDlMcVFFNG10UDlHYlhZQ0RRZlU5OFFsdDZuRENleHVzeUhJ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-03",
+      "data": "2026-08-20",
+      "titulo": "Guarda Municipal detém indivíduos por importunação sexual e receptação nas zonas Oeste e Sul da capital",
+      "categoria": "seguranca",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · zonas Oeste e Sul; bairros não informados",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MU0plc0FaVzI3blRiQ1pCSWNma1VRWlNhOUtja2JUc3QwOUF4LTFiVGsxd2Q1TzhHVUpwVklCeEFqTGNiOHhnUmJLOVFPYWhPR3ZHZmRWaktZZkZjdk8zVVROakYwTHg3MzVHRmZKd1NTdlVQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-04",
+      "data": "2026-08-20",
+      "titulo": "Operação prende 22 condenados por roubo em Manaus e outros dois estados",
+      "categoria": "seguranca",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus e outros dois estados",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORm94eDFSVVJGVTc0QUQ2NTFIVGJab2pIeldyakNmY2dBR2VCQ3dpT3NDMW1hRkpENHlNaURicFkxSDF2MkxCOW93WHpXZFdGMlF6cDNWWXdub1NacHR4RmJvcHMxdzRJYXItRHNkQ1laWE4wRGM3S09TR0NNSnNnMlVNcTlmVzRkWU80VkZHQjQwQ05ub2dqWlQ5QnhyMTA?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-05",
+      "data": "2026-08-21",
+      "titulo": "Suspeito de executar jovem a mando de facção em Boa Vista é preso em Manaus",
+      "categoria": "seguranca",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · conexão funcional com Boa Vista/RR",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnhQMXVfb0prRWl6U2tRcVFCbW5tUnBfeXIxMmliazB2LXpHdWFNbUZoT2RNRldJRG5nRHZiUDU3eUJaRHl0WHFrRjlFRWZQdDkybi03b1ptSTdCZGhZcV81c0VYVkRudmFVTkx3Q20tOVY5ZXh6MWtQQmRXVDgwdmhMS3psMWlhQlktLXQ3b0lPLXNXc3d0V0IzZnVOXzZCX2I1M3V5WjVaam9mYVJSZUJaSEY1RkRHNUE3NHUxbWpHMEhzQnhnUjFyZmFXa3N5WWpZ0gHTAUFVX3lxTE1OeFAxdV9vSmtFaXpTa1FxUUJtbm1ScF95cjEyaWJrMHYtekd1YU1tRmhPZE1GV0lEbmdEdmJQNTd5QlpEeXRYcWtGOUVFZlB0OTJuLTdvWm1JN0JkaFlxXzVzRVhWRG52YVVOTHdDbS05VjlleHoxa1BCZFdUODB2aExLemwxaWFCWS0tdDdvSU8tc1dzd3RXQjNmdU5fNkJfYjUzdXlaNVpqb2ZhUlJlQlpIRjVGREc1QTc0dTFtakcwSHNCeGdSMXJmYVdrc3lZalk?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-06",
+      "data": "2026-08-20",
+      "titulo": "Prefeitura de Manaus inicia operação ‘Batidão’ para reforçar fiscalização e ordenamento no Centro",
+      "categoria": "ordem-urbana",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · Centro",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QYk1ldXhrZVYtdERlSHhSamo2eF80NmhyeFdtLUYzSFFnV0ZUWDVqNjBhalAwbXRvSmJSWEpXVEw0d2hMcmtVLVpzVWRERDFfTTczNVE0Nzc2SUZCa1RMV0hDRF9QRVpxeGhNMnRDc3ZTWUdlOFE?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-07",
+      "data": "2026-08-21",
+      "titulo": "Romu realiza prisão de dois indivíduos por tráfico de drogas na zona Leste",
+      "categoria": "seguranca",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · zona Leste; bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdk1vUE1IMlhVWUdaVHVrZnNLd3pPckMzR1pmSTFGZW4ySzdWQ1FmeWx4SnFIblZsVzlXUEQwbkFPaFFCaXVJTDN0VHBLYWhESktzRHpreWNHd1o5REJueGg0WUdzdlhfdDFuNzMxeGtET3RCMDIxN2l0REh6V1U1dUh2eGZNUQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-08",
+      "data": "2026-08-20",
+      "titulo": "Greve dos trabalhadores do transporte especial chega ao fim após acordo em Manaus",
+      "categoria": "mobilidade",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · Distrito Industrial/eixos de acesso",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSl9pVkJ2dkJYOTVqeTZhZ21mTmVWaURrWkpadzlNcHFvVjBXNXBiM0pIWXVoM0VGZzlYcjRfcUNrREJOS1ZNRDd1dnUtM0txbVNZQ0ZtLVJMSjQ1SnVPdWFkYW8xQVloVjdlLW1oTjRSWkg0aENrZ0JrdHN5ZnJzaTM5M1c3VzN2dDAtWjBORmktVFFCVDl0OTJ6WUZFbVVtQUs4SktZS0JFZHhGa2Y2X1ZNQ1hSNjV5NXJ4ODFUYUpqYnBfR1JzdmxlMmdPYUJTbVM3MkxB0gHkAUFVX3lxTE9QcDJERGdTanJMSHl4ejJIaXRLLXViMTU2bmRuZlB2TVdzRmN0RXdqSThYblA5M0JNX2pMYXhkWHNQZjZPamlUUTM2QTVoYW1MMGZNTTQyZnJxbEN4TUYwVnVheUN3Y1QwLW9rYXBJOHUtNVNDLXFHWU9jTldGV1RKQXlsWHBZcEhwWGwzZzlHb2tsYlU4dnMyYmJOWmRCNW9DZjVNbk1xRHY1TXgtMlJGN1htM0JvTzRFMERYQjNVbUJyRkc0ZEYwRlYxWERkMzNNeDVQeEs5alpmQjFYNlpHak96TQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-09",
+      "data": "2026-08-20",
+      "titulo": "Apagão atinge bairros de Manaus e municípios de Iranduba e Manacapuru",
+      "categoria": "infraestrutura",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus, Iranduba e Manacapuru",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal Em Tempo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEpMZTdzck9TdmU1aHFQRW8wNzh5Tk9FenJ3TFV0Y0NjNU1fY0hFNHI0UkVpM2RpTXBmd0hPaWtjRURyQ0dhbkN3VDVwNTZKX0kzN0ZMXzI5YTlQYUJHak1ZSXZ1el9uY0dwRUFPeDVoNzlXTll5QW5DbnJTcDVHY0ZWRF9GMEk?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-10",
+      "data": "2026-08-20",
+      "titulo": "Manaus amanhece coberta por fumaça e registra qualidade do ar \"ruim\" nesta quinta-feira (20)",
+      "categoria": "ambiente",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · múltiplas zonas",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "BandNews Difusora",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXFTNUh1b3RUdG5FOGU0cEZqdUwxMjMyWmFhZVVKWFRQbUhMU0hyZ1BtbFd5M2dwQlZKM05ESVpGeGZWRWRSN2VETnRnS0hfei1EYTlZdVdmQmNjY2VGN1BfOFdleWV4MEdPZWlQT01BeTZiS1NYeEJ5Rkd0cEwwZDQ4MTZsUGx6bWJOcVlQWHRZWDZsWGp3MW4wVEFWM09SRE5laTJLQjZnVHoyYnVsS0RYN2M4RWV3cHFLQkRMcjliYkpKUEdGVTRhWUJpVkFXajVxLUpFZ2I?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-11",
+      "data": "2026-08-19",
+      "titulo": "MP oficia órgãos para contenção de incêndio no lixão de Iranduba e apuração de responsabilidade por danos ao meio ambiente e à saúde da população",
+      "categoria": "ambiente",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Iranduba · lixão municipal",
+      "coordenadas": {
+        "lat": -3.2844,
+        "lon": -60.1861,
+        "precisao": "referência aproximada da sede municipal; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbXo1bm9uaDNuc1RWNXJmc0lqR2NCZTNCN2NrS29BMzNjNkFYcENlM18zQTFTaUVmdnZYWUdJdHBNVkVHdk1sb2FNa0FwRXpucVFfd0RrdHpVVDB6cHo0RnMxa3BlQ1Utc0lMYWpoVGdrYkNjVTJ2QXB3UGM1Uy1ScEJiclBYS0J3OEFRU19qUEZMVEV6elQwT2E2NHBTY3AzSnAzYjIySVJCbTZGaDE0NXlGZmpfY2NqRXdiUEJ2a0RuS19fQlJYT3N0eWZ6NExYZ2VTdDlIMW9hZElSYWtlYmc2ZWdaZmtKQklLQjd0dEJYUUh5b0g2UTlCYjhjeTRFRkJJS1k4cU9NeHlKVU9tM19sT0FCQWQt?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-12",
+      "data": "2026-08-20",
+      "titulo": "Falta d'água no Novo Aleixo e outros bairros afeta rotina de famílias em Manaus",
+      "categoria": "infraestrutura",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · Novo Aleixo",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal do Holanda",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWZVSE9ZYVgtdnJoY0xPZnh4VDJ5OVBveFo0VDVBUUhodF83ZjZxbDNTNWRJOXRTbXNmS1ZrVDBoX1NvdEQzZ0U5T0JyS3Vic0ZYZUI0Mm1nNVJRblZwUWpabkNBaGozMGR0akVwa3hKSUdaUnV6MXBKQlVZbmJtWWVWRU9kTy1tM0JZVk5KajdXQWRqX1FLSkY3bEtTUC1idlQzUE9zb19BQlpURy1lRExVWmxjaHBsNWxxX3R4RQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-13",
+      "data": "2026-08-21",
+      "titulo": "Tubulação rompe, afeta abastecimento e causa congestionamento em Manaus",
+      "categoria": "infraestrutura",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · Torquato Tapajós; bairros não consolidados",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUFkdzIxdFAtcy1JdEpGVTBIQW1aM2R3RFpoMjc3ZlRfaWEzc2tMZzliNDJiNUhBcDg0U2V3T3pkYWxxNE9jS25zaUw3d3BJbmxGODdvMHRuX3FvUkRjRFV2ZFFpRzJvT3hRZmVKaXRrbHlycDFIdm4taWhGdlgzNmZIUkpWbTV5RW14eTF6Nkl3ckxEU1g0WVBoWmFnZzNzSnotRjBXWWtQR3pxdy1wV2liTEhmVlY0aTI3U3oxXzFCQdIB0AFBVV95cUxNTThHQk5oeUsyWXgwQUlZZTFkc3NCOHpUYUtvMy1xUE1YZFBtXzNmeXY1a0I3cmxNTWRfNHdUdVJ3VTJFajNwYnptMXFFVk5zSTg4Tmw5ZlBUNUh6dmJ1WWNUQ09GT1dQUUxod200amdwOWhtZktEeW9nczRJa2xfR0ltQkd3NkxRU1VQQ29EbkRVb0ZldE5sSjFiczBubUZwTzZ6Z29jdmFVeGtfbUNpdXR5TVNJS3FMc3RWSGx1RElXVjV5LUdVSElBdlJWUTZG?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-14",
+      "data": "2026-08-21",
+      "titulo": "'Medo de desabar tudo': avanço de erosão ameaça casas em Presidente Figueiredo",
+      "categoria": "defesa-civil",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Presidente Figueiredo",
+      "coordenadas": {
+        "lat": -2.0346,
+        "lon": -60.0234,
+        "precisao": "referência aproximada da sede municipal; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "G1",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHVmUnR5N1padU5WU1pYdm04STVmMWoySFVYcEwwaEFrVjQ2dklLTmo4OFN2U0pVWGR6NXdBcExQc3FRTmtOdXdEOVRNcjg1WWNwWDlBS19sT0hQWVV2cUp3ZER2b3RNZUhJMDNZU2R0LWVVcnJtQVgtcVc2T3FScWFsNTUzdlRLM0xrQ1FqYjFkV0ZZRnlONUtVTkZqRXhKNFRkeE1xRFJWaDdIeThHZ1ZXdTdKcWtPZ2czVWZaQ09FWTdlemtlRjNGX1M0ei1aY2tBT0hudWFjY3di0gHcAUFVX3lxTE0wdWZSdHk3Wlp1TlZTWlh2bThJNWYxajJIVVhwTDBoQWtWNDZ2SUtOajg4U3ZTSlVYZHo1d0FwTFBzcVFOa051d0Q5VE1yODVZY3BYOUFLX2xPSFBZVXZxSndkRHZvdE1lSEkwM1lTZHQtZVVycm1BWC1xVzZPcVJxYWw1NTN2VEszTGtDUWpiMWRXRllGeU41S1VORmpFeEo0VGR4TXFEUlZoN0h5OEdnVld1N0pxa09nZzNVZlpDT0VZN2V6a2VGM0ZfUzR6LVpja0FPSG51YWNjd2I?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-15",
+      "data": "2026-08-20",
+      "titulo": "Rachaduras assustam moradores de residencial em Manaus",
+      "categoria": "defesa-civil",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · residencial/bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "amazonas atual",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUpWSTlpb1Y5Y1dyNmRUTG5FMElKb180YVpjZDBuTDA5X0liZlVEX0l4SHZCZVVNcFZCdEphUVpSRkJOM2t5YVluQ0FtYmNxMGk3VXg0aU1Rd05zWkc2LVllc3A2ZlJySElZNHVVTFFjVEZsdFY5V1JXaUIydlp6bkJaLWdfSm0wMGl3YQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-16",
+      "data": "2026-08-21",
+      "titulo": "Motorista embriagado colide contra poste e acaba preso em Manaus",
+      "categoria": "transito",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Portal do Holanda",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXBmUlI5bExmeGRBcnpWU0Q2YV9lcVJxRXdHeXZzYmtWd2F4V2l4OW5XTkZ3eVZ1TTZ6ckJnSkZEQlBZcUtTanVycGRUVFVNSkV1NHVnb01MS0pENzI3NFFuMXlkN0F0LXZqLWhkQ3lXQTBCN2hjMDFBNk1QelpmbUVZcy0zVllUVTR4T0drV1U2MHMxTEpXTnVZQ1VCVWNCMmlDSWRiSHlJeXVj?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-17",
+      "data": "2026-08-21",
+      "titulo": "VÍDEOS: acidente entre veículos paralisa Avenida Torquato Tapajós em Manaus",
+      "categoria": "transito",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · avenida Torquato Tapajós",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG5LU3VqekdYNVh5bjRvMFR1T3hQU2E2Q2NuMFlyVWpad25JV2xPQkpCUkMxLWlZdHVmSmNucHp5QTdCb1RhX3hnMjZuRmZoSXJzMEYtbFB6SVo3dWdCSHhuYU1ScnpjcGk0ak1MZHF3cHNQS0ZqSzBpYmRJaDJ3VEoxTFB4TWNNSXdzNm5oeDdMYXhqLXZTeEhnRmxhNjBlVHJpNQ?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-18",
+      "data": "2026-08-19",
+      "titulo": "‘Dia D’ da Multivacinação da prefeitura terá oferta de doses em mais de 110 unidades básicas no sábado, 22/8",
+      "categoria": "saude",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus · mais de 110 UBS",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "Prefeitura de Manaus",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wWkN5YmEwd2RGMUotVHVoOWZiNXlJVTBiQzE3aFpyT3RLVk9IS3hHQTBxLVhLWXM2eVRNU1ZNNjhiSV9BQXlaUE1oOGtHSHlOVjlSSTh1cExYbE5kYnFhV3I3bU9UektFeFRTcE9LYWswYnBJb3BmTUtlU18?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-19",
+      "data": "2026-08-20",
+      "titulo": "MPAM atua em apoio à operação Labirinto Fiscal, do MPSC, que investiga fraude tributária milionária em Manaus",
+      "categoria": "fraude",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · local não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN28wWXE4SkhzZktlNXRQX2Z1NzNLRi1xY19meElxVDk1MWhoZWZ5cmdBNGR6LThMMHlvLWVFY1ozVWVwMUFGMkw0U1otMnJuaEZfNm81UG5la2lYWEdUMnlwRTVlSWVqdnprbzU5Q3B5QjZOV09QY01CLTNOZGtHTzAtbHN2RVduM0VLVUJyMVF3c0hYazhncFhlQy0tREZtbC1ZZXptZ0tkdWdTNWtKZjJlLWJuQTVZNVQ3eVZLZEtEY3J1N0VSUjdZR2FFeFdKM2t3Z2N4VlVsUEZDU25za3FQaDJQZw?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-20",
+      "data": "2026-08-21",
+      "titulo": "Vara do Meio Ambiente confirma sentença de desocupação de 11 imóveis no bairro Aparecida, em Manaus",
+      "categoria": "decisao-judicial",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · Aparecida",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "tjam.jus.br",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONkVwTnh6VHQ3VEo2TzNEQjFJZ1JOdGRVWTMxSV9qRzdxZlFnOHF0SHp4SzR4eC1rMTJQdkY0MklRei03bHcyanFRdThmbkdXOFJwczI3eGZpZVFnTVJiVFd3YTExNy0wNTVkdlYyT2ZJaG5UdkJBUklfVkVUNWsyU3FxRVJjaGNNaFdIS2hjU1FweE9XakR6THVQYlVsSm9UMUdJLTdad2hoOWtRcTZuclZlZy01M0VMX2ktMmZ3azhOYW1DSkRVeTRGd1B3am13dm1SZHNUTmlJb1dqN3N1TjBTd1NWSVZtWUxhMmJwYUhzdw?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-21",
+      "data": "2026-08-19",
+      "titulo": "MPAM obtém condenação de homem a 29 anos por feminicídio em Manaus",
+      "categoria": "justica",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "MPAM",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1U3VDNHWHcxYjN2aVVPNXh3YURrdjRrVmFVc0xMaUtITnNTNTVKTXJsSTVxUy1HMUZmY1VObzAzUVRrV21xOGZOTUdndFhHbGY1YWJ0WW5BX2k5bW1SaWdkZVFKdDRTTHBHRzFhUWNIeDJZRXJoRzBjWk13WFRqc1ZrZ2JxX2VYWFFZSk9Pc2xBRzU2MThiT2lEdFNqUFVQLXpjTW1ES0tPaGg3Zmxr?oc=5"
+      }
+    },
+    {
+      "id": "rmm-20260821-22",
+      "data": "2026-08-20",
+      "titulo": "Empresários são condenados por manter doméstica em regime análogo à escravidão por 30 anos em Manaus",
+      "categoria": "justica",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus · bairro não informado",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "precisao": "referência aproximada de Manaus; não representa o ponto do fato"
+      },
+      "fonte": {
+        "nome": "A Crítica",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc29XV0s1aDduSkk5RmtYOWtXS0d1dUJfRTZBN0NvM3dNdWpVM0c3bnZsOEdLcnRTZTAwejBTSFZySUp6NEY0Wm50ZFlyQWpKNVhsWDAwQi1rZ1pIUHV6S3Z5RHVLZjhTU0ZGTkJyOVVqMko1YVR6eXVaTnloS0hpYmhFRURqWFZhZjliWi04c0d4bUlkaGZsclJaak1wV0N6NWhxVmcwUnRHMnFBTWltYUJsZmRFcVNTR2dwSTRZT0kzbHRsOHhNZkNST1JZd2dTUU9WVVF4bG7SAdgBQVVfeXFMTXNvV1dLNWg3bkpJOUZrWDlrV0tHdXVCX0U2QTdDbzN3TXVqVTNHN252bDhHS3J0U2UwMHowU0hWcklKejRGNFpudGRZckFqSjVYbFgwMEIta2daSFB1ekt2eUR1S2Y4U1NGRk5CcjlVajJKNWFUenl1Wk55aEtIaWJoRUVEalhWYWY5YlotOHNHeG1JZGhmbHJSWmpNcFdDejVocVZnMFJ0RzJxQU1pbWFCbGZkRXFTU0dncEk0WU9JM2x0bDh4TWZDUk9SWXdnU1FPVlVReGxu?oc=5"
+      }
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "G1",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "D24AM",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "Prefeitura de Manaus",
+      "tipo": "primária"
+    },
+    {
+      "nome": "Portal Em Tempo",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "BandNews Difusora",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "MPAM",
+      "tipo": "primária"
+    },
+    {
+      "nome": "Portal do Holanda",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "amazonas atual",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "tjam.jus.br",
+      "tipo": "primária"
+    },
+    {
+      "nome": "A Crítica",
+      "tipo": "secundária"
+    }
+  ],
+  "metodologia": {
+    "impacto": "1 mínimo; 5 crítico",
+    "probabilidade": "1 improvável; 5 muito provável",
+    "confiabilidadeFonte": "A completamente confiável; F não avaliável",
+    "credibilidadeInformacao": "1 confirmada; 6 não avaliável",
+    "aviso": "Fato, indicação e contexto são apresentados separadamente. Prisão, denúncia, investigação ou decisão não equivalem entre si. Coordenadas aproximadas não representam o ponto do fato."
+  }
+}
