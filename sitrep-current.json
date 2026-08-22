@@ -1,0 +1,845 @@
+{
+  "metadata": {
+    "titulo": "RELATÓRIO DIÁRIO DO AMBIENTE OPERACIONAL",
+    "subtitulo": "SITREP-AM | MANAUS E REGIÃO METROPOLITANA",
+    "versao": "2026.08.22",
+    "atualizadoEm": "2026-08-22T09:02:00-03:00",
+    "periodoInicio": "2026-08-20T09:02:00-03:00",
+    "periodoFim": "2026-08-22T09:02:00-03:00",
+    "fusoHorario": "America/Sao_Paulo",
+    "status": "ATENÇÃO LOCALIZADA",
+    "distribuicao": "FONTES ABERTAS",
+    "consultasTentadas": 145,
+    "consultasEfetivas": 25,
+    "dominios": 25,
+    "candidatos": 68,
+    "coberturaCartografica": {
+      "noticiasNoMapa": 12,
+      "noticiasTotais": 12,
+      "percentual": 100
+    }
+  },
+  "resumoExecutivo": {
+    "situacao": "Doze ocorrências factuais foram reconciliadas na janela exata de 48 horas.",
+    "impacto": "Destaques: violência letal e armada, incêndio prolongado em Iranduba, interrupção elétrica metropolitana e acidentes viários.",
+    "perspectiva": "Nas próximas 24–72h, acompanhar apurações policiais, qualidade do ar em Iranduba, estabilidade elétrica e segurança viária."
+  },
+  "indicadores": {
+    "termometro": "ATENÇÃO",
+    "totalEventos": 12,
+    "eventosCriticos": 0,
+    "eventosAcompanhamento": 12,
+    "eventosFronteira": 0,
+    "fontesUtilizadas": 4
+  },
+  "eventos": [
+    {
+      "id": "mns-260822-01",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Homicídio",
+      "titulo": "Homem é executado a tiros na porta de casa",
+      "dataHora": "2026-08-22T07:54:30-03:00",
+      "publicadoEm": "2026-08-22T07:54:30-03:00",
+      "localizacao": "Manaus — localização intramunicipal não informada",
+      "resumo": "A vítima morreu após ataque a tiros na entrada do imóvel.",
+      "impactoOperacional": "A vítima morreu após ataque a tiros na entrada do imóvel.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "municipio",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://d24am.com/policia/cena-forte-homem-e-executado-a-tiros-na-porta-da-propria-casa-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "A vítima morreu após ataque a tiros na entrada do imóvel."
+      }
+    },
+    {
+      "id": "mns-260822-02",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Acidente viário",
+      "titulo": "Adolescente de 17 anos morre em colisão com caminhão",
+      "dataHora": "2026-08-22T07:46:57-03:00",
+      "publicadoEm": "2026-08-22T07:46:57-03:00",
+      "localizacao": "Manaus — localização intramunicipal não informada",
+      "resumo": "Motociclista adolescente morreu após a moto ser atingida por caminhão.",
+      "impactoOperacional": "Motociclista adolescente morreu após a moto ser atingida por caminhão.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "municipio",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://d24am.com/amazonas/pais-entram-em-desespero-ao-encontrar-filho-de-17-anos-morto-em-acidente/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Motociclista adolescente morreu após a moto ser atingida por caminhão."
+      }
+    },
+    {
+      "id": "mns-260821-03",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "Violência doméstica",
+      "titulo": "Homem é preso após agredir a mãe",
+      "dataHora": "2026-08-21T19:48:52-03:00",
+      "publicadoEm": "2026-08-21T19:48:52-03:00",
+      "localizacao": "Parque das Tribos, Tarumã-Açu — zona Oeste",
+      "resumo": "Ocorrência de violência doméstica atendida após denúncia; suspeito preso.",
+      "impactoOperacional": "Ocorrência de violência doméstica atendida após denúncia; suspeito preso.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.065,
+        "lon": -60.107,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "bairro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/homem-e-preso-apos-agredir-a-mae-e-tentar-ataca-la-com-garfo-no-parque-das-tribos/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Ocorrência de violência doméstica atendida após denúncia; suspeito preso."
+      }
+    },
+    {
+      "id": "mns-260821-04",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "normal",
+      "categoria": "Mobilidade",
+      "titulo": "Recuperação asfáltica começa em Santa Etelvina",
+      "dataHora": "2026-08-21T19:58:16-03:00",
+      "publicadoEm": "2026-08-21T19:58:16-03:00",
+      "localizacao": "Rua Dom Henrique, Santa Etelvina — zona Norte",
+      "resumo": "Frente de manutenção iniciou recuperação de trechos deteriorados.",
+      "impactoOperacional": "Frente de manutenção iniciou recuperação de trechos deteriorados.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 2,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -2.996,
+        "lon": -60.005,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "logradouro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/nova-frente-de-recuperacao-asfaltica-inicia-no-bairro-santa-etelvina/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Frente de manutenção iniciou recuperação de trechos deteriorados."
+      }
+    },
+    {
+      "id": "mns-260821-05",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Incêndio e fumaça",
+      "titulo": "Incêndio em lixão chega ao nono dia em Iranduba",
+      "dataHora": "2026-08-21T18:09:27-03:00",
+      "publicadoEm": "2026-08-21T18:09:27-03:00",
+      "localizacao": "Ramal do Janauari, Iranduba",
+      "resumo": "Moradores relataram fumaça intensa e insuficiência de carros-pipa.",
+      "impactoOperacional": "Moradores relataram fumaça intensa e insuficiência de carros-pipa.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.251,
+        "lon": -60.18,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "logradouro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/moradores-pedem-mais-carros-pipa-enquanto-fumaca-de-lixao-deixa-ar-pessimo-em-iranduba/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Moradores relataram fumaça intensa e insuficiência de carros-pipa."
+      }
+    },
+    {
+      "id": "mns-260821-06",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "Furto",
+      "titulo": "Homem é preso e adolescente apreendido por furto de moto",
+      "dataHora": "2026-08-21T15:22:26-03:00",
+      "publicadoEm": "2026-08-21T15:22:26-03:00",
+      "localizacao": "Jorge Teixeira — zona Leste",
+      "resumo": "Ação policial decorrente de investigação de furto qualificado de motocicleta.",
+      "impactoOperacional": "Ação policial decorrente de investigação de furto qualificado de motocicleta.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.071,
+        "lon": -59.94,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "bairro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/homem-e-preso-e-adolescente-e-apreendido-por-furto-de-motocicleta-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Ação policial decorrente de investigação de furto qualificado de motocicleta."
+      }
+    },
+    {
+      "id": "mns-260821-07",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Violência sexual",
+      "titulo": "Homem é preso por estupro de vulnerável",
+      "dataHora": "2026-08-21T15:07:17-03:00",
+      "publicadoEm": "2026-08-21T15:07:17-03:00",
+      "localizacao": "Lago Azul — zona Norte",
+      "resumo": "Prisão em flagrante após denúncia envolvendo vítima de 11 anos; preservar identidades.",
+      "impactoOperacional": "Prisão em flagrante após denúncia envolvendo vítima de 11 anos; preservar identidades.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -2.963,
+        "lon": -60.02,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "bairro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/homem-e-preso-em-flagrante-por-estupro-contra-a-propria-enteada/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Prisão em flagrante após denúncia envolvendo vítima de 11 anos; preservar identidades."
+      }
+    },
+    {
+      "id": "mns-260821-08",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "normal",
+      "categoria": "Clima",
+      "titulo": "Chuva retorna a Manaus e ao corredor AM-010",
+      "dataHora": "2026-08-21T16:51:33-03:00",
+      "publicadoEm": "2026-08-21T16:51:33-03:00",
+      "localizacao": "Zona Norte de Manaus e trechos da AM-010",
+      "resumo": "Precipitação após período de calor intenso e baixa umidade.",
+      "impactoOperacional": "Precipitação após período de calor intenso e baixa umidade.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 2,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.02,
+        "lon": -60.01,
+        "geoNivel": "zona",
+        "geoPrecisao": "aproximada — zona citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "zona",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/chuva-volta-a-ser-registrada-em-manaus-e-na-am-010-apos-periodo-de-calor-intenso/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Precipitação após período de calor intenso e baixa umidade."
+      }
+    },
+    {
+      "id": "mns-260820-09",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Energia",
+      "titulo": "Apagão atinge Manaus, Iranduba e Manacapuru",
+      "dataHora": "2026-08-20T19:40:53-03:00",
+      "publicadoEm": "2026-08-20T19:40:53-03:00",
+      "localizacao": "Zonas Centro-Oeste/Oeste de Manaus; Iranduba; Manacapuru",
+      "resumo": "Desligamento no sistema de alta tensão afetou três núcleos metropolitanos.",
+      "impactoOperacional": "Desligamento no sistema de alta tensão afetou três núcleos metropolitanos.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.2,
+        "lon": -60.28,
+        "geoNivel": "zona",
+        "geoPrecisao": "aproximada — zona citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "zona",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Em Tempo",
+        "url": "https://emtempo.com.br/484120/amazonas/apagao-atinge-manaus-iranduba-manacapuru/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Desligamento no sistema de alta tensão afetou três núcleos metropolitanos."
+      }
+    },
+    {
+      "id": "mns-260820-10",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "Crime ambiental",
+      "titulo": "PC investiga maus-tratos contra animal em Itacoatiara",
+      "dataHora": "2026-08-20T18:19:30-03:00",
+      "publicadoEm": "2026-08-20T18:19:30-03:00",
+      "localizacao": "Itacoatiara — local intramunicipal não informado",
+      "resumo": "Vídeo motivou investigação de adolescente por suspeita de maus-tratos.",
+      "impactoOperacional": "Vídeo motivou investigação de adolescente por suspeita de maus-tratos.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.1386,
+        "lon": -58.4449,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "municipio",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/video-mostra-adolescente-agredindo-gato-em-itacoatiara-policia-civil-investiga-caso/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Vídeo motivou investigação de adolescente por suspeita de maus-tratos."
+      }
+    },
+    {
+      "id": "mns-260820-11",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "atencao",
+      "categoria": "Transporte",
+      "titulo": "Paralisação do transporte especial termina após acordo",
+      "dataHora": "2026-08-20T17:23:27-03:00",
+      "publicadoEm": "2026-08-20T17:23:27-03:00",
+      "localizacao": "Manaus / Polo Industrial — abrangência metropolitana funcional",
+      "resumo": "Acordo encerrou paralisação que afetava deslocamento de trabalhadores.",
+      "impactoOperacional": "Acordo encerrou paralisação que afetava deslocamento de trabalhadores.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 3,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "municipio",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/paralisacao-do-transporte-especial-chega-ao-fim-apos-acordo-entre-sindicatos-no-amazonas/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Acordo encerrou paralisação que afetava deslocamento de trabalhadores."
+      }
+    },
+    {
+      "id": "mns-260820-12",
+      "classificacao": "FATO CONFIRMADO",
+      "criticidade": "alerta",
+      "categoria": "Violência armada",
+      "titulo": "Investigador é filmado atirando após acidente de trânsito",
+      "dataHora": "2026-08-20T13:54:44-03:00",
+      "publicadoEm": "2026-08-20T13:54:44-03:00",
+      "localizacao": "Av. Brigadeiro Hilário Gurjão, São José Operário — zona Leste",
+      "resumo": "Vídeo registrou disparos após colisão; fato requer apuração institucional.",
+      "impactoOperacional": "Vídeo registrou disparos após colisão; fato requer apuração institucional.",
+      "tendencia": "em acompanhamento",
+      "confianca": "média",
+      "impacto": 4,
+      "probabilidadeAgravamento": 2,
+      "confiabilidadeFonte": "B",
+      "credibilidadeInformacao": 2,
+      "coordenadas": {
+        "lat": -3.077,
+        "lon": -59.949,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "geoNivel": "logradouro",
+      "geoPrecisao": "aproximada",
+      "geoFonte": "fonte original",
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/investigador-da-policia-civil-e-flagrado-atirando-contra-motorista-apos-acidente-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Vídeo registrou disparos após colisão; fato requer apuração institucional."
+      }
+    }
+  ],
+  "fronteiraColombia": [
+    {
+      "status": "QUADRO METROPOLITANO",
+      "grupo": "Manaus/RMM",
+      "departamento": "Manaus, Iranduba, Manacapuru e Itacoatiara",
+      "localConfronto": "Ocorrências urbanas e metropolitanas",
+      "operacaoGovernamental": "Respostas policiais, municipais e de infraestrutura",
+      "municipioBrasil": "Manaus e RMM",
+      "distanciaFronteira": "Não se aplica",
+      "bacia": "Negro–Solimões–Amazonas",
+      "eixoLogistico": "Urbano, rodoviário e fluvial",
+      "impactoPotencial": "Segurança, energia, ar e mobilidade",
+      "tendencia": "atenção localizada",
+      "riscoTransbordamento": "localizado",
+      "observacao": "Sem ampliação estadual."
+    }
+  ],
+  "radarTematico": [
+    {
+      "tema": "Segurança",
+      "nivel": 5
+    },
+    {
+      "tema": "Infraestrutura",
+      "nivel": 4
+    },
+    {
+      "tema": "Ambiente",
+      "nivel": 4
+    },
+    {
+      "tema": "Mobilidade",
+      "nivel": 3
+    }
+  ],
+  "briefingDiario": [
+    {
+      "tema": "cobertura",
+      "titulo": "Cobertura insuficiente para declarar silêncio nos municípios sem ocorrência recuperada.",
+      "situacao": "LIMITAÇÃO DOCUMENTADA",
+      "confianca": "alta",
+      "fonte": "https://www.ssp.am.gov.br/"
+    }
+  ],
+  "acompanhamento": [
+    {
+      "tema": "Iranduba — fumaça",
+      "horizonte": "24h",
+      "acao": "Verificar contenção e impacto sanitário."
+    },
+    {
+      "tema": "Segurança",
+      "horizonte": "24–72h",
+      "acao": "Acompanhar investigações sem divulgar detalhes táticos."
+    },
+    {
+      "tema": "Energia",
+      "horizonte": "24h",
+      "acao": "Verificar recorrência de instabilidade."
+    }
+  ],
+  "historico30Dias": [
+    {
+      "id": "mns-260822-01",
+      "data": "2026-08-22",
+      "titulo": "Homem é executado a tiros na porta de casa",
+      "categoria": "Homicídio",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus — localização intramunicipal não informada",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://d24am.com/policia/cena-forte-homem-e-executado-a-tiros-na-porta-da-propria-casa-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "A vítima morreu após ataque a tiros na entrada do imóvel."
+      }
+    },
+    {
+      "id": "mns-260822-02",
+      "data": "2026-08-22",
+      "titulo": "Adolescente de 17 anos morre em colisão com caminhão",
+      "categoria": "Acidente viário",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Manaus — localização intramunicipal não informada",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "D24AM",
+        "url": "https://d24am.com/amazonas/pais-entram-em-desespero-ao-encontrar-filho-de-17-anos-morto-em-acidente/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Motociclista adolescente morreu após a moto ser atingida por caminhão."
+      }
+    },
+    {
+      "id": "mns-260821-03",
+      "data": "2026-08-21",
+      "titulo": "Homem é preso após agredir a mãe",
+      "categoria": "Violência doméstica",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Parque das Tribos, Tarumã-Açu — zona Oeste",
+      "coordenadas": {
+        "lat": -3.065,
+        "lon": -60.107,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/homem-e-preso-apos-agredir-a-mae-e-tentar-ataca-la-com-garfo-no-parque-das-tribos/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Ocorrência de violência doméstica atendida após denúncia; suspeito preso."
+      }
+    },
+    {
+      "id": "mns-260821-04",
+      "data": "2026-08-21",
+      "titulo": "Recuperação asfáltica começa em Santa Etelvina",
+      "categoria": "Mobilidade",
+      "criticidade": "normal",
+      "impacto": 2,
+      "localizacao": "Rua Dom Henrique, Santa Etelvina — zona Norte",
+      "coordenadas": {
+        "lat": -2.996,
+        "lon": -60.005,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/nova-frente-de-recuperacao-asfaltica-inicia-no-bairro-santa-etelvina/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Frente de manutenção iniciou recuperação de trechos deteriorados."
+      }
+    },
+    {
+      "id": "mns-260821-05",
+      "data": "2026-08-21",
+      "titulo": "Incêndio em lixão chega ao nono dia em Iranduba",
+      "categoria": "Incêndio e fumaça",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Ramal do Janauari, Iranduba",
+      "coordenadas": {
+        "lat": -3.251,
+        "lon": -60.18,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/moradores-pedem-mais-carros-pipa-enquanto-fumaca-de-lixao-deixa-ar-pessimo-em-iranduba/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Moradores relataram fumaça intensa e insuficiência de carros-pipa."
+      }
+    },
+    {
+      "id": "mns-260821-06",
+      "data": "2026-08-21",
+      "titulo": "Homem é preso e adolescente apreendido por furto de moto",
+      "categoria": "Furto",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Jorge Teixeira — zona Leste",
+      "coordenadas": {
+        "lat": -3.071,
+        "lon": -59.94,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/homem-e-preso-e-adolescente-e-apreendido-por-furto-de-motocicleta-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Ação policial decorrente de investigação de furto qualificado de motocicleta."
+      }
+    },
+    {
+      "id": "mns-260821-07",
+      "data": "2026-08-21",
+      "titulo": "Homem é preso por estupro de vulnerável",
+      "categoria": "Violência sexual",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Lago Azul — zona Norte",
+      "coordenadas": {
+        "lat": -2.963,
+        "lon": -60.02,
+        "geoNivel": "bairro",
+        "geoPrecisao": "aproximada — bairro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/homem-e-preso-em-flagrante-por-estupro-contra-a-propria-enteada/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Prisão em flagrante após denúncia envolvendo vítima de 11 anos; preservar identidades."
+      }
+    },
+    {
+      "id": "mns-260821-08",
+      "data": "2026-08-21",
+      "titulo": "Chuva retorna a Manaus e ao corredor AM-010",
+      "categoria": "Clima",
+      "criticidade": "normal",
+      "impacto": 2,
+      "localizacao": "Zona Norte de Manaus e trechos da AM-010",
+      "coordenadas": {
+        "lat": -3.02,
+        "lon": -60.01,
+        "geoNivel": "zona",
+        "geoPrecisao": "aproximada — zona citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Portal do Marcos Santos",
+        "url": "https://www.portalmarcossantos.com.br/2026/08/21/chuva-volta-a-ser-registrada-em-manaus-e-na-am-010-apos-periodo-de-calor-intenso/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Precipitação após período de calor intenso e baixa umidade."
+      }
+    },
+    {
+      "id": "mns-260820-09",
+      "data": "2026-08-20",
+      "titulo": "Apagão atinge Manaus, Iranduba e Manacapuru",
+      "categoria": "Energia",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Zonas Centro-Oeste/Oeste de Manaus; Iranduba; Manacapuru",
+      "coordenadas": {
+        "lat": -3.2,
+        "lon": -60.28,
+        "geoNivel": "zona",
+        "geoPrecisao": "aproximada — zona citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Em Tempo",
+        "url": "https://emtempo.com.br/484120/amazonas/apagao-atinge-manaus-iranduba-manacapuru/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Desligamento no sistema de alta tensão afetou três núcleos metropolitanos."
+      }
+    },
+    {
+      "id": "mns-260820-10",
+      "data": "2026-08-20",
+      "titulo": "PC investiga maus-tratos contra animal em Itacoatiara",
+      "categoria": "Crime ambiental",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Itacoatiara — local intramunicipal não informado",
+      "coordenadas": {
+        "lat": -3.1386,
+        "lon": -58.4449,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/video-mostra-adolescente-agredindo-gato-em-itacoatiara-policia-civil-investiga-caso/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Vídeo motivou investigação de adolescente por suspeita de maus-tratos."
+      }
+    },
+    {
+      "id": "mns-260820-11",
+      "data": "2026-08-20",
+      "titulo": "Paralisação do transporte especial termina após acordo",
+      "categoria": "Transporte",
+      "criticidade": "atencao",
+      "impacto": 3,
+      "localizacao": "Manaus / Polo Industrial — abrangência metropolitana funcional",
+      "coordenadas": {
+        "lat": -3.119,
+        "lon": -60.0217,
+        "geoNivel": "municipio",
+        "geoPrecisao": "aproximada — municipio citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/paralisacao-do-transporte-especial-chega-ao-fim-apos-acordo-entre-sindicatos-no-amazonas/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Acordo encerrou paralisação que afetava deslocamento de trabalhadores."
+      }
+    },
+    {
+      "id": "mns-260820-12",
+      "data": "2026-08-20",
+      "titulo": "Investigador é filmado atirando após acidente de trânsito",
+      "categoria": "Violência armada",
+      "criticidade": "alerta",
+      "impacto": 4,
+      "localizacao": "Av. Brigadeiro Hilário Gurjão, São José Operário — zona Leste",
+      "coordenadas": {
+        "lat": -3.077,
+        "lon": -59.949,
+        "geoNivel": "logradouro",
+        "geoPrecisao": "aproximada — logradouro citado",
+        "geoFonte": "local explicitado na fonte; ponto representativo não equivale ao ponto exato",
+        "precisao": "posição aproximada"
+      },
+      "fonte": {
+        "nome": "Rios de Notícias",
+        "url": "https://www.riosdenoticias.com.br/investigador-da-policia-civil-e-flagrado-atirando-contra-motorista-apos-acidente-em-manaus/",
+        "tipo": "secundária",
+        "confirmacoes": 1,
+        "evidencia": "Vídeo registrou disparos após colisão; fato requer apuração institucional."
+      }
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "D24AM",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "Portal do Marcos Santos",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "Rios de Notícias",
+      "tipo": "secundária"
+    },
+    {
+      "nome": "Em Tempo",
+      "tipo": "secundária"
+    }
+  ],
+  "metodologia": {
+    "impacto": "1 mínimo; 5 crítico",
+    "probabilidade": "1 improvável; 5 muito provável",
+    "confiabilidadeFonte": "A–F",
+    "credibilidadeInformacao": "1–6",
+    "aviso": "Cobertura insuficiente: 120 consultas ao provedor falharam por limite; 25 domínios foram acessados diretamente. Zero links intermediários."
+  }
+}
